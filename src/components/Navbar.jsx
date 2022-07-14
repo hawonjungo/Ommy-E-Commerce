@@ -67,7 +67,7 @@ const Navbar = () => {
             </Left>
             <Center>
                 <Logo>
-                    Ommy-ECommerce
+                    Ommy
                 </Logo>
             </Center>
             <Right>
