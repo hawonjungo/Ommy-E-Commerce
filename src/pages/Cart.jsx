@@ -171,7 +171,7 @@ const Cart = () => {
           <Info>
             <Product>
               <ProductDetail>
-                <Image src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1614188818-TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_b01b1013-cd8d-48e7-bed9-52db26515dc4.png?crop=1xw:1.00xh;center,top&resize=480%3A%2A" />
+              <Image src="https://cdn.shopify.com/s/files/1/0563/5981/3285/products/0003-PAORANGEback_1080x.jpg?v=1633176320" />
                 <Details>
                   <ProductName>
                     <b>Product:</b> JESSIE THUNDER SHOES
