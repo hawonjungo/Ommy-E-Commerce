@@ -112,13 +112,15 @@ const Product = () => {
         <Announcement/>
         <Wrapper>
             <ImageContainer>
-                <Image src="https://i.ibb.co/S6qMxwr/jean.jpg"/>
+                <Image src="https://cdn.shopify.com/s/files/1/0563/5981/3285/products/gusback_720x.jpg?v=1631671385"/>
             </ImageContainer>
             <InforContainer>
-                <Title>Wind Jacket</Title>
-                <Desc> Wearing any time, cold or hot, what ever who really care , too cheap.
-                Wearing any time, cold or hot, what ever who really care , too cheap.
-                Wearing any time, cold or hot, what ever who really care , too cheap.
+                <Title>Gus Bralette</Title>
+                <Desc> All our pieces are handmade with love and reversible, providing unique and playful variations to your look. 
+
+This print brings to our mindset all those long walks on the beach collecting shells and snorkeling for hours along with starfish... amazing on anyone with the bronziest skin tones!
+
+This top is handmade with ECO-soft recycled fabric coming from discarded single-use bottles previously destined for landfills, helping our environment by reducing waste.
                 </Desc>
                 <Price>$ 20.00</Price>
                 <FilterContainer>
